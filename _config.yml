@@ -20,7 +20,7 @@ title                    : "easyoung-lee"
 title_separator          : "|"
 subtitle                 : "Remind 4C - Creativity, Communication, Collboration, Critical thinking)"
 name                     : "Lee Young Jun"
-description              : "An amazing website."
+description              : "이영준의 개발일지 입니다."
 url                      : "https://easyoung-lee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "이영준의 기록일지"
+  name             : "이영준의 일지"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요. **이영준** 입니다."
   location         : "Gyeonggi-do, Republic of Korea"
