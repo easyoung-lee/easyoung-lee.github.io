@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "[JS알고리즘] temp" 
-categories: Python
+title:  "[양식] temp" 
+categories: Temp
 comments: true
 author_profile: false
 sidebar:
