@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -105,7 +105,7 @@ author:
   name             : "이영준 학습일지"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "항상 배워나가는 **이영준** 입니다."
-  location         : "Gyeonggi-do, Republic of Korea"
+  location         : "Gyeonggi-do, Kor"
   email            :
   links:
     - label: "Email"
