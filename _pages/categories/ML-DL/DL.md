@@ -1,5 +1,5 @@
 ---
-title: "DL"
+title: "Deep Learning"
 layout: tag
 permalink: /mldl/dl
 author_profile: true
