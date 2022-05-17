@@ -1,7 +1,7 @@
 ---
 title: "Algorithm - Baekjoon"
 layout: tag
-permalink: /algorithm/baekjoon
+permalink: /algorithm/baekjoon/
 author_profile: true
 sidebar:
   nav: "docs"
