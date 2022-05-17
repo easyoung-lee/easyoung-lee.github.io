@@ -1,6 +1,6 @@
 ---
 title: "Python-학습"
-layout: category
+layout: tag
 permalink: /python/study/
 author_profile: true
 taxonomy: Python-학습
