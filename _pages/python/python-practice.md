@@ -3,7 +3,7 @@ title: "Python-실습"
 layout: category
 permalink: /python/practice/
 author_profile: true
-taxonomy: Python-실습
+taxonomy: Python
 
 ---
 
