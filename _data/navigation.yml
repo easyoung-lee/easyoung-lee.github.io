@@ -13,7 +13,7 @@ docs:
     children: 
     - title: "Python"
       url: /python/
-    - title: "ML/DL"
+    - title: "ML&DL"
       url: /mldl/
       children: 
       - title: "TEST"
