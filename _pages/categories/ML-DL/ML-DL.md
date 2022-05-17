@@ -1,9 +1,9 @@
 ---
-title: "ML/DL"
+title: "ML&DL"
 layout: category
 permalink: /mldl/
 author_profile: true
-taxonomy: ML/DL
+taxonomy: ML&DL
 
 ---
 
