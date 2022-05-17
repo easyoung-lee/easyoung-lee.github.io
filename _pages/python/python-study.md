@@ -1,9 +1,9 @@
 ---
-title: "Python-학습"
+title: "Python - 학습"
 layout: tag
 permalink: /python/study/
 author_profile: true
-taxonomy: Python-학습
+taxonomy: Python Study
 
 ---
 
