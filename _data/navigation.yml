@@ -8,13 +8,17 @@ main:
     url: /search/
     
 docs:
-  - title: "Pythonn"
-    url: /python/
+  - title: "Category"
+    url: /categories/
     children: 
-    - title: "학습"
-      url: /python/study/
-    - title: "실습"
-      url: /python/practice/
+    - title: "Python"
+      url: /python/
+    - title: "ML/DL"
+      url: /mldl/
+    - title: "-> ML"
+      url: /mldl/ml
+    - title: "-> DL"
+      url: /mldl/dl
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
