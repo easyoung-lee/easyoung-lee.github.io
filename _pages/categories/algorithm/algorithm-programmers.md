@@ -1,7 +1,7 @@
 ---
 title: "Algorithm - Programmers"
 layout: tag
-permalink: /algorithm/programmers
+permalink: /algorithm/programmers/
 author_profile: true
 sidebar:
   nav: "docs"
