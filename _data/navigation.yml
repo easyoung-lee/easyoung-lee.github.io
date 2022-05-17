@@ -19,6 +19,14 @@ docs:
       url: /mldl/ml/
     - title: "-> Deep Learning"
       url: /mldl/dl/
+    - title: "Algorithm"
+      url: /algorithm/
+    - title: "-> Baekjoon"
+      url: /algorithm/baekjoon/
+    - title: "-> Programmers"
+      url: /algorithm/programmers/
+    - title: "-> etc"
+      url: /algorithm/etc/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
