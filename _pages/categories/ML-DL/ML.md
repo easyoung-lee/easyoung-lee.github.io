@@ -1,6 +1,6 @@
 ---
 title: "ML"
-layout: category
+layout: tag
 permalink: /mldl/ml
 author_profile: true
 taxonomy: ML
