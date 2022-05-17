@@ -1,11 +1,12 @@
 ---
 layout: single
 title:  "[ML-Kaggle] 보스턴 부동산 데이터 분석 및 학습" 
-categories: ML
+categories: ML&DL
 comments: true
 author_profile: false
 sidebar:
   nav: "docs"
+tags: [Python, Machine Learning, Practice]
 
 ---
 
