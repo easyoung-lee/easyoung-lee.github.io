@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "이영준 학습일지"
-  avatar           : "/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "항상 배워나가는 **이영준** 입니다."
   location         : "Gyeonggi-do, Kor"
   email            :
