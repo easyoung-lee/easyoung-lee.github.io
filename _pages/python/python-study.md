@@ -1,7 +1,7 @@
 ---
 title: "Python-학습"
 layout: category
-permalink: /python/study/
+permalink: /categories/python/study/
 author_profile: true
 taxonomy: Python-학습
 
