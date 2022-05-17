@@ -1,7 +1,7 @@
 ---
 title: "Python-실습"
 layout: category
-permalink: /categories/python/practice/
+permalink: /python/practice/
 author_profile: true
 taxonomy: Python-실습
 
