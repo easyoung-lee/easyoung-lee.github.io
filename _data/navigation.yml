@@ -15,13 +15,10 @@ docs:
       url: /python/
     - title: "ML&DL"
       url: /mldl/
-      children: 
-      - title: "TEST"
-        url: /mldl/ml
     - title: "-> Machine Learning"
-      url: /mldl/ml
+      url: /mldl/ml/
     - title: "-> Deep Learning"
-      url: /mldl/dl
+      url: /mldl/dl/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
