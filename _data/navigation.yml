@@ -8,10 +8,13 @@ main:
     url: /search/
     
 docs:
-  - title: "대목차"
+  - title: "Python"
+    url: /python/
     children: 
-    - title: "Category"
-      url: /categories/
+    - title: "학습"
+      url: /python/study/
+    - title: "실습"
+      url: /python/practice/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
