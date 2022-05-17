@@ -1,9 +1,9 @@
 ---
-title: "Python-실습"
-layout: category
+title: "Python - 실습"
+layout: tag
 permalink: /python/practice/
 author_profile: true
-taxonomy: Python
+taxonomy: Python Practice
 
 ---
 
