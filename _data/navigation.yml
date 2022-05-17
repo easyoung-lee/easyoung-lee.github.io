@@ -18,9 +18,9 @@ docs:
       children: 
       - title: "TEST"
         url: /mldl/ml
-    - title: "-> ML"
+    - title: "-> Machine Learning"
       url: /mldl/ml
-    - title: "-> DL"
+    - title: "-> Deep Learning"
       url: /mldl/dl
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
