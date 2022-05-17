@@ -1,7 +1,7 @@
 ---
 title: "Algorithm - etc"
 layout: tag
-permalink: /algorithm/etc
+permalink: /algorithm/etc/
 author_profile: true
 sidebar:
   nav: "docs"
