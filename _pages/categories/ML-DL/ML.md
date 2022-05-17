@@ -3,7 +3,7 @@ title: "Machine Learning"
 layout: tag
 permalink: /mldl/ml
 author_profile: true
-taxonomy: ML
+taxonomy: Machine Learning
 
 ---
 
