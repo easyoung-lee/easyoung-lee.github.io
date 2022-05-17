@@ -3,6 +3,8 @@ title: "Machine Learning"
 layout: tag
 permalink: /mldl/ml
 author_profile: true
+sidebar:
+  nav: "docs"
 taxonomy: Machine Learning
 
 ---
