@@ -3,6 +3,8 @@ title: "ML&DL"
 layout: category
 permalink: /mldl/
 author_profile: true
+sidebar:
+  nav: "docs"
 taxonomy: ML&DL
 
 ---
