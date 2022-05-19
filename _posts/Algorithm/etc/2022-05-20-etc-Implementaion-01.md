@@ -40,12 +40,15 @@ toc_icon: "sticky-note"
 <br>
 <b><u><span style="font-size:20px">입력</span></u></b>
 
-여러개의 숫자로 구성된 하나의 문자열 S가 입력된다.(1 <= S의 길이 <= 20)
+첫째 줄에 공간의 크기를 나타내는 N이 주어진다.(1 <= N <= 100)  
+둘째 줄에 여행가 A가 이동할 계획서 내용이 주어진다.(1 <= 이동 횟수 <= 100)  
+ex) 5 / R R R U D D
+
 
 <br>
 <b><u><span style="font-size:20px">출력</span></u></b>
 
-주어진 연산자를 이용해 만들어질 수 있는 가장 큰 수를 출력한다.
+여행가 A가 최종적으로 도착할 지점의 좌표(x, y)를 공백을 기분으로 구분하여 출력한다.
 
 <br>
 <br>
@@ -55,10 +58,10 @@ toc_icon: "sticky-note"
 ---
 
 **Greedy Algorithm 참고내용**
-- 일반적인 상황에서 Greedy Algorithm은 최적의 해를 보장할 수 없을 때가 많다.<br>
-- 하지만 Coding Test에선 일반적으로 Greedy Algorithm문제에서 이를 사용해 얻은 해가 최적의 해가 되는 경우가 많다.<br>
+- 구현 유형의 문제는 일반적으로 풀이를 떠올리는 것은 쉽지만 소스코드로 옮기기 어려운 문제들을 말한다.<br>
+- 예를 들어 코드가 길어지는 문제, 실수 연산을 다루고 특정 소수점 자리까지 출력해야하는 문제, 적절한 라이브러리를 찾아서 사용해야하는 문제 등.<br>
 위 참고사항을 준수하며, 풀어보자.<br>
-
+방향 벡터를 이용하여 주어진 계획서에 맞게 이동하는 배열을 만들어 A의 위치를 나타낼 수 있게 활용해준다.
 <br>
 <br>
 
@@ -66,7 +69,7 @@ toc_icon: "sticky-note"
 
 ## Python
 
-<script src="https://gist.github.com/easyoung-lee/e97426746a7cd2482944b1203f77af42.js"></script>
+<script src="https://gist.github.com/easyoung-lee/8991486f210d2a8a78927f9b9b708744.js"></script>
 
 <br>
 <br>
